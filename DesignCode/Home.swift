@@ -17,6 +17,7 @@ struct Home: View {
                 .edgesIgnoringSafeArea(.all)
             
             HomeView(showProfile: $showProfile)
+                .padding(.top, 44)
             .background(Color.white)
             .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
             .shadow(color: Color.black.opacity(0.2), radius: 20, x: 0, y: 20)

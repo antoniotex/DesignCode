@@ -61,7 +61,6 @@ struct HomeView: View {
 }
 
 struct HomeView_Previews: PreviewProvider {
-    @State var showProfile = false
     static var previews: some View {
         HomeView(showProfile: .constant(false))
     }
