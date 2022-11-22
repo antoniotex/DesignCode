@@ -16,6 +16,7 @@
 		A9E4516A292C470400D06F10 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E45169292C470400D06F10 /* HomeView.swift */; };
 		A9E4516C292C6C9700D06F10 /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E4516B292C6C9700D06F10 /* UpdateList.swift */; };
 		A9E4516E292CF5D100D06F10 /* UpdateDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E4516D292CF5D100D06F10 /* UpdateDetail.swift */; };
+		A9E45170292D003300D06F10 /* UpdateStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E4516F292D003300D06F10 /* UpdateStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		A9E45169292C470400D06F10 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		A9E4516B292C6C9700D06F10 /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
 		A9E4516D292CF5D100D06F10 /* UpdateDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDetail.swift; sourceTree = "<group>"; };
+		A9E4516F292D003300D06F10 /* UpdateStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				A9C256C72929D18100DC9165 /* MenuView.swift */,
 				A9E4516B292C6C9700D06F10 /* UpdateList.swift */,
 				A9E4516D292CF5D100D06F10 /* UpdateDetail.swift */,
+				A9E4516F292D003300D06F10 /* UpdateStore.swift */,
 				A9C66826292746D3005665CC /* Assets.xcassets */,
 				A9C66828292746D3005665CC /* DesignCode.entitlements */,
 				A9C66829292746D3005665CC /* Preview Content */,
@@ -158,6 +161,7 @@
 				A9C66825292746D2005665CC /* ContentView.swift in Sources */,
 				A9C256C82929D18100DC9165 /* MenuView.swift in Sources */,
 				A9E4516C292C6C9700D06F10 /* UpdateList.swift in Sources */,
+				A9E45170292D003300D06F10 /* UpdateStore.swift in Sources */,
 				A9E45168292C350400D06F10 /* Home.swift in Sources */,
 				A9E4516A292C470400D06F10 /* HomeView.swift in Sources */,
 				A9C66823292746D2005665CC /* DesignCodeApp.swift in Sources */,
